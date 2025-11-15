@@ -1,4 +1,4 @@
-Edit
+rem Edit
 @echo off
 setlocal
 
@@ -27,3 +27,4 @@ echo System proxy disabled
 taskkill /im sslocal.exe /f >nul 2>&1
 endlocal
 exit
+
