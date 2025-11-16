@@ -15,15 +15,12 @@ No heavy, complicated GUI clients or any installations are needed.
 • On key press, disables proxy and terminates `sslocal.exe`
 
 ## Required file structure
-
-shadowsocks
-
+```
+|shadowsocks
 ├── proxy.bat
-
 ├── config.json
-
 └── sslocal.exe
-
+```
 
 ## Quick guide
 
